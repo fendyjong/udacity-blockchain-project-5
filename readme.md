@@ -1,4 +1,5 @@
 # Star Notary - Udacity Blockchain Project 5
+DApps for claiming, buy, transfer, exchange star with blockchain Ethereum.
 
 ## Specification
 ### Versions
@@ -24,5 +25,5 @@ $ test
 ## Run in Rinkeby network
 Deploy contract to rinkeby test network
 ```
-truffle migrate --reset --network rinkeby
+$ truffle migrate --reset --network rinkeby
 ```

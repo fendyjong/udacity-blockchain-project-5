@@ -3,8 +3,8 @@ pragma solidity >=0.4.24;
 import "../node_modules/openzeppelin-solidity/contracts/token/ERC721/ERC721Full.sol";
 
 contract SimpleToken is ERC721Full {
-    string public name = "Simple Token";
-    string public symbol = "EGT";
+    string public name = "SimpleToken";
+    string public symbol = "MGE";
 
     constructor() public
     ERC721Full(name, symbol) {
