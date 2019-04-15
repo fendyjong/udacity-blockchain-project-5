@@ -8,7 +8,7 @@ DApps for claiming, buy, transfer, exchange star with blockchain Ethereum.
 
 ## Token
 - Name: SimpleToken
-- Symbol: MGT
+- Symbol: MGE
 
 Create a `.secret` file which include mnemonic (metamask seed).
 
