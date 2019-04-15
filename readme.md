@@ -7,8 +7,8 @@ DApps for claiming, buy, transfer, exchange star with blockchain Ethereum.
 - OpenZeppelin: 2.2.0
 
 ## Token
-- Name: Simple Token
-- Symbol: EGT
+- Name: SimpleToken
+- Symbol: MGT
 
 Create a `.secret` file which include mnemonic (metamask seed).
 
